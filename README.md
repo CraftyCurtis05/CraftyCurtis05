@@ -7,12 +7,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
          alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" 
+  <a href="https://www.hackerrank.com/profile/craftycurtis05">
+    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" 
          alt="Youtube Badge"/>
   </a>
-  <a href="https://www.twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" 
+  <a href="https://www.codewars.com/users/CraftyCurtis05">
+    <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" 
          alt="Twitter Badge"/>
   </a>  
 </div>
