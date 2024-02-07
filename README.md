@@ -1,7 +1,6 @@
-<!--Sloth Sticker-->
+<!--Swipe Up Sticker-->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzUwN2ZrYzlvZ25sbnhtb2poZHV6dHZoZTZuMndveGJiOG93eXhoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KESQSCbtsnzq/giphy.gif"       
-       width="250" height="250" frameBorder="0">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXYzazRkaGVycWNlNGF2azNyamJzemJqMmZpNWxnOGI4M256bjVxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkbsjqhLw39hkv6TK4/giphy.gif"           width="250" height="250" frameBorder="0">
 </div>
 
 <!--LinkedIn Badge Link-->
@@ -35,5 +34,9 @@
   </h1>
 </div>  
 
-<!--Skill Icons-->
-
+<!--About Me GIF-->
+<div id="about-gif" align="center">
+  <!--Sloth Sticker-->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzUwN2ZrYzlvZ25sbnhtb2poZHV6dHZoZTZuMndveGJiOG93eXhoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KESQSCbtsnzq/giphy.gif" 
+      width="300" height="250" frameBorder="0"/>
+</div>
