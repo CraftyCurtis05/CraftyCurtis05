@@ -1,6 +1,6 @@
 <!--Swipe Up Sticker-->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXYzazRkaGVycWNlNGF2azNyamJzemJqMmZpNWxnOGI4M256bjVxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkbsjqhLw39hkv6TK4/giphy.gif"           width="250" height="250" frameBorder="0">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rlb21tZmdudHNzYmFyY2ZycThscXJ6bjNxZThqNjBxaDJyOTVkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif"           width="200" height="200" frameBorder="0">
 </div>
 
 <!--LinkedIn Badge Link-->
@@ -40,3 +40,19 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzUwN2ZrYzlvZ25sbnhtb2poZHV6dHZoZTZuMndveGJiOG93eXhoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KESQSCbtsnzq/giphy.gif" 
       width="300" height="250" frameBorder="0"/>
 </div>
+
+  ---
+
+<div id="about-me" align="center">
+
+### :woman_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
+
+- :telescope: I’m currently looking for work as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Spring Core.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
