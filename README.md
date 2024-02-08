@@ -99,12 +99,12 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div id="stats">
 ### :fire: My Stats :
 
-  <div id="streak" align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CraftyCurtis05&theme=neon&mode=weekly&card_width=900" alt="GitHub Streak" /></a>
+  <div id="streak">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CraftyCurtis05&theme=neon&mode=weekly&card_width=600" alt="GitHub Streak" /></a>
   </div>
   
-  <div id="top-languages" align="center">  
+  <div id="top-languages">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftycurtis05&layout=compact&theme=vision-friendly-dark" alt="TopLanguages" 
-       width="330"></a>
+       width="325"></a>
   </div>
 </div>
