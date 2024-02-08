@@ -44,6 +44,7 @@
 
   ---
 
+<!--About Me Paragraph-->
 <div id="about-me">
 ### :woman_technologist: About Me :
 
@@ -60,6 +61,7 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+<!--Languages and Tools-->
 <div id="languages-tools">
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -104,3 +106,14 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
          height="40"/>
   </div>    
 </div>
+
+---
+
+<!--Stats-->
+<div id="stats">
+### :fire: My Stats :
+
+  <div id="stat-counter" align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CraftyCurtis05&theme=neon&mode=weekly&card_width=500" alt="GitHub Streak" /></a>
+  </div>  
+</div>  
