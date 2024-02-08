@@ -100,11 +100,11 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
   <div id="streak" align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CraftyCurtis05&theme=neon&mode=weekly&card_width=700" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CraftyCurtis05&theme=neon&mode=weekly&card_width=900" alt="GitHub Streak" /></a>
   </div>
   
-  <div id="top-languages">  
+  <div id="top-languages" align="center">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftycurtis05&layout=compact&theme=vision-friendly-dark" alt="TopLanguages" 
-       width="675"></a>
+       width="330"></a>
   </div>
 </div>
