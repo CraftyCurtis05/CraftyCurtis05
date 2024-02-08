@@ -1,6 +1,7 @@
 <!--Swipe Up Sticker-->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rlb21tZmdudHNzYmFyY2ZycThscXJ6bjNxZThqNjBxaDJyOTVkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif"           width="200" height="200" frameBorder="0">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rlb21tZmdudHNzYmFyY2ZycThscXJ6bjNxZThqNjBxaDJyOTVkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif"           
+       width="200" height="200" frameBorder="0">
 </div>
 
 <!--LinkedIn Badge Link-->
@@ -47,12 +48,12 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
+I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the United States.
 
-- :telescope: I’m currently looking for work as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m currently looking for work as a Software Engineer and contributing to Full-Stack Web Application Development.
 
-- :seedling: Exploring Spring Core.
+- :seedling: Exploring Spring Core and reviewing Vue3. Next adventure is AWS!
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I'm working on two side projects, an Inventory Management Application and a Dispensary Locator Application. I also enjoy playing the piano and am currently remodeling a 1950's home!
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jcurtisdeveloper/)
