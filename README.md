@@ -44,7 +44,7 @@
 
   ---
 
-<div id="about-me" align="center">
+<div id="about-me" align="left">
 
 ### :woman_technologist: About Me :
 
