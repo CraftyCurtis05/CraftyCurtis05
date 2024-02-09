@@ -33,13 +33,13 @@
 <div id="about-me">
 :sparkles: About Me:
   
-• :computer: I am a Full-Stack Developer from Ohio in the United States.
+• :computer: I am a Full-Stack Developer from Ohio, United States.
 
-• :mag_right: I’m currently looking for work as a Software Engineer and contributing to Full-Stack Web Application Development.
+• :mag_right: I’m currently looking for work as a Software Engineer and contributing Full-Stack Development to multiple Web Applications.
 
 • :seedling: Exploring Spring Core and reviewing Vue3. Next adventure is AWS!
 
-• :bulb: In my free time, I'm working on two side projects, an Inventory Management Application and a Dispensary Locator Application. 
+• :bulb: In my free time, I'm currently working on two side projects, an Inventory Management Application and a Dispensary Locator Application. 
 
 • :musical_note: I also enjoy playing the piano and am currently remodeling a 1950's home.
 
