@@ -105,6 +105,10 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
   <div id="top-languages">  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftycurtis05&layout=compact&theme=vision-friendly-dark" alt="TopLanguages" 
-       width="325"></a>
+       width="325">
+  </div>
+  <div id="my-stats">  
+    <img src="https://github-readme-stats.vercel.app/api?username=craftycurtis05&show_icons=true&theme=radical" alt="TopLanguages" 
+       width="325">
   </div>
 </div>
