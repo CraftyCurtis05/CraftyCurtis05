@@ -101,14 +101,13 @@ I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
   <div id="streak">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CraftyCurtis05&theme=neon&mode=weekly&card_width=600" alt="GitHub Streak" /></a>
-  </div>
-  
+  </div> 
   <div id="top-languages">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftycurtis05&layout=compact&theme=vision-friendly-dark" alt="TopLanguages" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftycurtis05&layout=compact&theme=neon" alt="TopLanguages" 
        width="325">
   </div>
   <div id="my-stats">  
-    <img src="https://github-readme-stats.vercel.app/api?username=craftycurtis05&show_icons=true&theme=radical" alt="TopLanguages" 
-       width="325">
+    <img src="https://github-readme-stats.vercel.app/api?username=craftycurtis05&show_icons=true&theme=neon" alt="TopLanguages" 
+       width="400">
   </div>
 </div>
