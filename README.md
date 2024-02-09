@@ -92,15 +92,15 @@
 <div id="stats">
 :fire: My Stats :
 
-  <div id="streak">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CraftyCurtis05&theme=neon&mode=weekly&card_width=600" alt="GitHub Streak" /></a>
-  </div> 
-  <div id="top-languages">  
+  <div id="my-stats" align="center">
+    <!--My Full Stats--> 
+    <img src="https://github-readme-stats.vercel.app/api?username=craftycurtis05&show_icons=true&theme=neon" alt="FullStats" 
+       width="450">
+    <!--My Top Languages-->  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftycurtis05&layout=compact&theme=neon" alt="TopLanguages" 
-       width="325">
+       width="344">  
   </div>
-  <div id="my-stats">  
-    <img src="https://github-readme-stats.vercel.app/api?username=craftycurtis05&show_icons=true&theme=neon" alt="TopLanguages" 
-       width="400">
-  </div>
+  <div id="streak" align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CraftyCurtis05&theme=neon&mode=weekly&card_width=800" alt="GitHub Streak" /></a>
+  </div> 
 </div>
