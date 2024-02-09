@@ -33,7 +33,7 @@
 <div id="about-me">
 :sparkles: About Me:
   
-• :computer: I am a Full-Stack Developer.
+• :computer: I am a Full-Stack Developer from Ohio in the United States.
 
 • :mag_right: I’m currently looking for work as a Software Engineer and contributing to Full-Stack Web Application Development.
 
@@ -101,6 +101,6 @@
        width="344">  
   </div>
   <div id="streak" align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CraftyCurtis05&theme=neon&mode=weekly&card_width=800" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=craftycurtis05&theme=neon&mode=weekly&card_width=800" alt="GitHub Streak" /></a>
   </div> 
 </div>
