@@ -1,34 +1,30 @@
-<div>
 <!--Welcome Header-->
-<div id="greeting" align="left">
+<div id="header">
   <h1>
-    Hi there! Welcome to my GitHub
+    Hi there! Welcome to my GitHub!
+      <!--Wave GIF-->
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    <div id="social-badges" align="left">    
-      <!--LinkedIn Badge Link-->
-      <a href="https://www.linkedin.com/in/jcurtisdeveloper">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <!--HackerRank Badge Link-->
-      <a href="https://www.hackerrank.com/profile/craftycurtis05">
-        <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Youtube Badge"/>
-      </a>
-      <!--CodeWars Badge Link-->
-      <a href="https://www.codewars.com/users/CraftyCurtis05">
-        <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Twitter Badge"/>
-      </a>  
-    </div>
-        <!--We Can Code This GIF-->
-          <div id="header" align="right">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rlb21tZmdudHNzYmFyY2ZycThscXJ6bjNxZThqNjBxaDJyOTVkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" alt="WeCanCodeThis" width="400" height="400" frameBorder="0">
-          </div>
-    </h1>
-  </div> 
-</div>  
-
-<!--Profile View Counter-->
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-craftycurtis05&style=flat-square&color=blueviolet" alt="counter"/>
+        <div id="social-badges">    
+          <!--LinkedIn Badge Link-->
+          <a href="https://www.linkedin.com/in/jcurtisdeveloper">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+          </a>
+          <!--HackerRank Badge Link-->
+          <a href="https://www.hackerrank.com/profile/craftycurtis05">
+            <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Youtube Badge"/>
+          </a>
+          <!--CodeWars Badge Link-->
+          <a href="https://www.codewars.com/users/CraftyCurtis05">
+            <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Twitter Badge"/>
+          </a>
+          <!--Profile View Counter-->
+          <div id="counter">
+            <img src="https://komarev.com/ghpvc/?username=your-github-craftycurtis05&style=flat-square&color=blueviolet" alt="counter"/>
+          </div> 
+            <!--We Can Code This GIF-->
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rlb21tZmdudHNzYmFyY2ZycThscXJ6bjNxZThqNjBxaDJyOTVkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" alt="WeCanCodeThis" width="400" height="400" frameBorder="0" align="right">
+        </div>
+  </h1>
 </div>    
 
 <!--About Me GIF-->
