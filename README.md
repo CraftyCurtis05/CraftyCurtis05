@@ -21,7 +21,7 @@
               <img src="https://komarev.com/ghpvc/?username=your-github-craftycurtis05&style=flat-square&color=blueviolet" alt="counter"/> 
               <!--We Can Code This GIF-->
               <div id="code-gif" align="right">
-                <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rlb21tZmdudHNzYmFyY2ZycThscXJ6bjNxZThqNjBxaDJyOTVkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" alt="WeCanCodeThis" width="400" height="400" frameBorder="0" align="right">
+                <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rlb21tZmdudHNzYmFyY2ZycThscXJ6bjNxZThqNjBxaDJyOTVkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" alt="WeCanCodeThis" width="400" height="450" frameBorder="0" align="right">
               </div>
             </div> 
         </div>
@@ -41,7 +41,7 @@
 
 • :bulb: In my free time, I'm working on two side projects, an Inventory Management Application and a Dispensary Locator Application. 
 
-• :musical_note: I also enjoy playing the piano and am currently remodeling a 1950's home!
+• :musical_note: I also enjoy playing the piano and am currently remodeling a 1950's home.
 
 • :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jcurtisdeveloper/)
 </div>
@@ -60,6 +60,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original-wordmark.svg" alt="CSS" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/json/json-original.svg" alt="JSON" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/yaml/yaml-original.svg" alt="YAML" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="45" height="45"/>
@@ -78,6 +79,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original-wordmark.svg" alt="Windows11" width="45" height="45"/>      
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg" alt="Powershell" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="45" height="45"/>
