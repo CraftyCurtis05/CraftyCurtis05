@@ -27,12 +27,12 @@
   </h1>
 </div>    
 
-<!--About Me GIF-->
+<!--About Me GIF
 <div id="about-gif" align="center">
-  <!--Sloth Sticker-->
+  Sloth Sticker
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzUwN2ZrYzlvZ25sbnhtb2poZHV6dHZoZTZuMndveGJiOG93eXhoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KESQSCbtsnzq/giphy.gif" 
       width="300" height="250" frameBorder="0"/>
-</div>
+</div> -->
 
   ---
 
