@@ -21,7 +21,7 @@
               <img src="https://komarev.com/ghpvc/?username=your-github-craftycurtis05&style=flat-square&color=blueviolet" alt="counter"/> 
               <!--We Can Code This GIF-->
               <div id="code-gif" align="right">
-                <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rlb21tZmdudHNzYmFyY2ZycThscXJ6bjNxZThqNjBxaDJyOTVkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" alt="WeCanCodeThis" width="400" height="450" frameBorder="0" align="right">
+                <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rlb21tZmdudHNzYmFyY2ZycThscXJ6bjNxZThqNjBxaDJyOTVkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" alt="WeCanCodeThis" width="400" height="395" frameBorder="0" align="right">
               </div>
             </div> 
         </div>
