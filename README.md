@@ -62,8 +62,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/json/json-original.svg" alt="JSON" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/yaml/yaml-original.svg" alt="YAML" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="45" height="45"/>
   </div>
   
   <div id="tools">
@@ -79,9 +77,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original-wordmark.svg" alt="Windows11" width="45" height="45"/>      
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/powershell/powershell-original.svg" alt="Powershell" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="45" height="45"/>
   </div>    
 </div>
 
