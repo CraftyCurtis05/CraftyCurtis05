@@ -70,7 +70,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/junit/junit-original-wordmark.svg" alt="JUnit" width="45" height="45"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original-wordmark.svg" alt="Postman" width="45" height="45"/>  
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/wordpress/wordpress-original.svg" alt="WordPress" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/portainer/portainer-original-wordmark.svg" alt="Portainer" width="45" height="45"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45"/>
