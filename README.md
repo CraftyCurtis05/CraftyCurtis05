@@ -2,15 +2,30 @@
 
 ### Business Systems & Technology Professional
 
-Business and technology professional with 15+ years of experience spanning operations, business administration, property management, IT consulting, and software development.
+Business Systems Analyst & Full-Stack Developer bridging operations strategy with software engineering to design and build systems that improve business workflows, data access, and decision-making.
 
-I enjoy solving business challenges through process improvement, systems thinking, and user-focused technology solutions. My background combines real-world operational experience with modern web application development, allowing me to bridge the gap between business needs and technical implementation.
+Experienced in requirements gathering, systems analysis, process improvement, and workflow optimization. Proven ability to translate business needs into technical requirements and support cross-functional teams in designing and implementing systems that improve operational efficiency, data visibility, and user experience.
+
+Strong background in stakeholder management, business process improvement lifecycle, and delivering web-based and process-driven technology solutions across business and technical environments.
 
 ---
 
 ## What I Do
 
-I help businesses improve workflows and decision-making by designing and building technology-driven systems and web applications. I combine operations experience with software development to deliver practical, user-focused solutions.
+I help businesses improve workflows and decision-making by conducting requirements analysis, designing process improvements, and building technology-driven systems and web applications. I combine operations experience with software development to deliver practical, user-focused solutions that improve efficiency, data access, and business processes.
+
+---
+
+## Core Areas
+
+### Business & Systems Analysis
+Requirements Analysis • Process Mapping • Workflow Optimization • Stakeholder Management
+
+### Technical Delivery
+Full-Stack Development • API Integration • System Design • Database Design
+
+### Operations & Strategy
+Business Process Improvement • Cross-Functional Collaboration • Operational Efficiency
 
 ---
 
@@ -30,6 +45,7 @@ I help businesses improve workflows and decision-making by designing and buildin
 
 ## Currently Focused On
 
+- Designing and implementing integrated systems that connect business workflows, APIs, and data-driven applications
 - Building full-stack web applications with Java, Spring Boot, Vue.js, and PostgreSQL
 - Exploring cloud technologies and modern application architecture
 - Developing solutions that improve workflows, efficiency, and user experience
@@ -41,18 +57,23 @@ I help businesses improve workflows and decision-making by designing and buildin
 
 ### Coffee Shop Locator Application
 
-A user-focused application designed to simplify local business discovery and improve decision-making through real-time data and mapping integration.
+Designed to improve local business discovery by consolidating fragmented location data into a unified, user-focused decision-making interface.
+
+• Supports improved consumer decision-making by reducing fragmentation in local business data sources
+• Designed responsive user interfaces for desktop and mobile environments  
+• Integrated Yelp Fusion API to deliver real-time business data  
+• Developed authentication, user profiles, and favorites functionality using Java, Spring Boot, and PostgreSQL
 
 **Tech Stack:** Java, Spring Boot, PostgreSQL, Vue.js, JavaScript, Yelp Fusion API
 
 ### Dispensary Locator Application
 
-A location-based web application designed to simplify how users discover and compare nearby dispensaries using real-time data and interactive mapping.
+Designed to support user decision-making by unifying real-time location, business, and informational data into a single structured system.
 
+• Enables structured access to multi-source business and location data for improved decision workflows
 • Designed responsive user interfaces for desktop and mobile environments  
-• Integrated Google Maps, Yelp Fusion, and News APIs to deliver real-time location, business, and informational data  
-• Developed secure user authentication, profiles, and favorites functionality using Java, Spring Boot, and PostgreSQL  
-• Improved user decision-making by consolidating multiple data sources into a single streamlined experience
+• Integrated Google Maps, Yelp Fusion, and News APIs for real-time data aggregation  
+• Developed authentication, user profiles, and favorites functionality using Java, Spring Boot, and PostgreSQL  
 
 **Tech Stack:** Java, Spring Boot, PostgreSQL, Vue.js, JavaScript, Google Maps API, Yelp Fusion API
 
