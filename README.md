@@ -8,6 +8,12 @@ I enjoy solving business challenges through process improvement, systems thinkin
 
 ---
 
+## What I Do
+
+I help businesses improve workflows and decision-making by designing and building technology-driven systems and web applications. I combine operations experience with software development to deliver practical, user-focused solutions.
+
+---
+
 ## Connect With Me
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-jennifercurtis.me-blue?style=for-the-badge)
@@ -35,13 +41,18 @@ I enjoy solving business challenges through process improvement, systems thinkin
 
 ### Coffee Shop Locator Application
 
-Location-based web application that helps users discover nearby coffee shops and save personalized favorites.
+A user-focused application designed to simplify local business discovery and improve decision-making through real-time data and mapping integration.
 
 **Tech Stack:** Java, Spring Boot, PostgreSQL, Vue.js, JavaScript, Yelp Fusion API
 
 ### Dispensary Locator Application
 
-Location-based web application that combines mapping, business information, and personalized user experiences through integrated APIs.
+A location-based web application designed to simplify how users discover and compare nearby dispensaries using real-time data and interactive mapping.
+
+• Designed responsive user interfaces for desktop and mobile environments  
+• Integrated Google Maps, Yelp Fusion, and News APIs to deliver real-time location, business, and informational data  
+• Developed secure user authentication, profiles, and favorites functionality using Java, Spring Boot, and PostgreSQL  
+• Improved user decision-making by consolidating multiple data sources into a single streamlined experience
 
 **Tech Stack:** Java, Spring Boot, PostgreSQL, Vue.js, JavaScript, Google Maps API, Yelp Fusion API
 
