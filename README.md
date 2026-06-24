@@ -15,9 +15,13 @@ My background includes business operations, IT consulting, property management, 
 I help organizations improve workflows and decision-making by analyzing business processes and building supporting web-based systems.
 
 I focus on:
+
 - Translating business workflows into application requirements
+
 - Designing and building full-stack web applications
+
 - Integrating APIs into user-facing systems
+
 - Improving operational efficiency through system design
 
 ---
@@ -39,7 +43,9 @@ Full-Stack Development • Java • Spring Boot • Vue.js • PostgreSQL
 A full-stack application that improves local business discovery through centralized data access.
 
 • Integrated Yelp Fusion API for real-time business data
+
 • Built user authentication, profiles, and favorites
+
 • Designed responsive UI for desktop and mobile
 
 **Tech Stack:** Java, Spring Boot, PostgreSQL, Vue.js, JavaScript, Yelp Fusion API
@@ -51,7 +57,9 @@ A full-stack application that improves local business discovery through centrali
 A multi-source location-based application combining mapping and business APIs.
 
 • Integrated Google Maps, Yelp Fusion, and News APIs
+
 • Built user personalization and authentication features
+
 • Designed structured workflows for multi-device use
 
 **Tech Stack:** Java, Spring Boot, PostgreSQL, Vue.js, JavaScript, Google Maps API, Yelp Fusion API
@@ -61,18 +69,25 @@ A multi-source location-based application combining mapping and business APIs.
 ## Currently Focused On
 
 - Building full-stack applications with Java, Spring Boot, and Vue.js
+
 - Improving systems analysis and workflow design skills
+
 - Working with APIs and data-driven application design
+
 - Exploring cloud deployment and system architecture fundamentals
 
 ---
 
 ## Technical Stack
 
-**Languages:** Java, Python, JavaScript  
-**Frameworks:** Spring Boot, Vue.js, Node.js  
-**Databases:** PostgreSQL, SQL  
-**Tools:** Git, GitHub, Docker, IntelliJ IDEA  
+**Languages:** Java, Python, JavaScript
+
+**Frameworks:** Spring Boot, Vue.js, Node.js
+
+**Databases:** PostgreSQL, SQL
+
+**Tools:** Git, GitHub, Docker, IntelliJ IDEA
+
 **Concepts:** Systems Analysis, REST APIs, Workflow Automation, Data Modeling, System Design
 
 ---
@@ -80,7 +95,9 @@ A multi-source location-based application combining mapping and business APIs.
 ## Education & Training
 
 - Tech Elevator – Full-Stack Java Bootcamp (800+ hours)
+
 - Ohio State University – Architecture (111 credit hours)
+
 - Marion Technical College – Dean's List; CCNA Certification 
 
 ---
