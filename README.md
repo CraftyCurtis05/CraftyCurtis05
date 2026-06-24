@@ -1,84 +1,78 @@
-<div id="header">
-    <!--Welcome Header-->
-    <h1>Hi there! Welcome to my GitHub!
-    <!--Wave GIF-->
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-    </h1>    
-    <!--LinkedIn Badge Link-->
-    <a href="https://www.linkedin.com/in/jcurtisdeveloper">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-</div> 
+# Hi, I'm Jennifer 👋
+
+### Business Systems & Technology Professional
+
+Business and technology professional with 15+ years of experience spanning operations, business administration, property management, IT consulting, and software development.
+
+I enjoy solving business challenges through process improvement, systems thinking, and user-focused technology solutions. My background combines real-world operational experience with modern web application development, allowing me to bridge the gap between business needs and technical implementation.
 
 ---
 
-<!--About Me Paragraph-->
-<div id="about-me">
-:sparkles: About Me:
-  
-• :computer: I am a Full-Stack Developer from Ohio, United States.
+## Connect With Me
 
-• :mag_right: I’m currently looking for work as a Software Engineer and contributing Full-Stack Development to multiple Web Applications.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge)](https://your-portfolio-url.com)
 
-• :seedling: Exploring Spring Core and reviewing Vue3. Next adventure is AWS!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcurtisdeveloper)
 
-• :bulb: In my free time, I'm currently working on two side projects, an Inventory Management Application and a Dispensary Locator Application. 
-
-• :musical_note: I also enjoy playing the piano and am currently remodeling a 1950's home.
-
-• :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jcurtisdeveloper/)
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-craftycurtis05-black?style=for-the-badge&logo=github)](https://github.com/craftycurtis05)
 
 ---
 
-<!--Languages and Tools-->
-<div id="languages-tools">
-:hammer_and_wrench: Languages and Tools :
+## Currently Focused On
 
-  <div id="languages">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="45" height="45"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="45" height="45"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original-wordmark.svg" alt="Vuejs" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original-wordmark.svg" alt="CSS" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/json/json-original.svg" alt="JSON" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/yaml/yaml-original.svg" alt="YAML" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
-  </div>
-  
-  <div id="tools">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" alt="Intellij" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/maven/maven-original-wordmark.svg" alt="Maven" width="45" height="45"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/junit/junit-original-wordmark.svg" alt="JUnit" width="45" height="45"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original-wordmark.svg" alt="Postman" width="45" height="45"/>  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/portainer/portainer-original-wordmark.svg" alt="Portainer" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows11/windows11-original-wordmark.svg" alt="Windows11" width="45" height="45"/>      
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>  
-  </div>    
-</div>
+- Building full-stack web applications with Java, Spring Boot, Vue.js, and PostgreSQL
+- Exploring cloud technologies and modern application architecture
+- Developing solutions that improve workflows, efficiency, and user experience
+- Expanding my experience in business systems, implementation, and technical consulting
 
 ---
 
-<!--Stats-->
-<div id="stats">
-:fire: My Stats :
+## Featured Projects
 
-  <div id="my-stats" align="center">
-    <!--My Full Stats--> 
-    <img src="https://github-readme-stats.vercel.app/api?username=craftycurtis05&show_icons=true&theme=neon" alt="FullStats" 
-       width="450">
-    <!--My Top Languages-->  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftycurtis05&layout=compact&theme=neon" alt="TopLanguages" 
-       width="344">  
-  </div>
-  <div id="streak" align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=craftycurtis05&theme=neon&mode=weekly&card_width=800" alt="GitHub Streak" /></a>
-  </div> 
-</div>
+### Coffee Shop Locator Application
+
+Location-based web application that helps users discover nearby coffee shops and save personalized favorites.
+
+**Tech Stack:** Java, Spring Boot, PostgreSQL, Vue.js, JavaScript, Yelp Fusion API
+
+### Dispensary Locator Application
+
+Location-based web application that combines mapping, business information, and personalized user experiences through integrated APIs.
+
+**Tech Stack:** Java, Spring Boot, PostgreSQL, Vue.js, JavaScript, Google Maps API, Yelp Fusion API
+
+---
+
+## Languages & Technologies
+
+### Development
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Database & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![Jennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=craftycurtis05&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=craftycurtis05&layout=compact)
+
+---
+
+> Technology is most valuable when it solves real business problems and creates better experiences for the people who use it.
