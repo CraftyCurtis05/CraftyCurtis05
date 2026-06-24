@@ -10,9 +10,15 @@ I enjoy solving business challenges through process improvement, systems thinkin
 
 ## Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge)](https://jennifercurtis.me)
+![Portfolio](https://img.shields.io/badge/Portfolio-jennifercurtis.me-blue?style=for-the-badge)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcurtisdeveloper)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-jcurtisdeveloper-blue?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-craftycurtis05-black?style=for-the-badge&logo=github)
+
+![Email](https://img.shields.io/badge/Email-craftycurtis05%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)
+
+![Location](https://img.shields.io/badge/Location-Columbus%2C%20OH-lightgrey?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ---
 
