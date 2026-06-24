@@ -1,113 +1,88 @@
 # Hi, I'm Jennifer 👋
 
-### Business Systems Analyst & Full-Stack Developer
+### Business Systems Analyst | Full-Stack Developer
 
-Business Systems Analyst and Full-Stack Developer with 15+ years of experience bridging business operations and software engineering to design and build systems that improve workflows, data access, and decision-making.
+Business Systems Analyst and Full-Stack Developer specializing in business process improvement, systems analysis, and full-stack web application development.
 
-I specialize in translating complex business processes into clear system requirements and scalable web applications. My background spans operations, systems analysis, IT consulting, and full-stack development, allowing me to connect business needs directly to technical implementation.
+I work at the intersection of business operations and software development, translating real-world workflows into structured systems and applications that improve efficiency and usability.
+
+My background includes business operations, IT consulting, property management, and modern web development using Java and JavaScript frameworks.
 
 ---
 
 ## What I Do
 
-I analyze business processes, identify workflow inefficiencies, and design software-driven solutions that improve operational efficiency, reduce manual effort, and enhance data visibility.
+I help organizations improve workflows and decision-making by analyzing business processes and building supporting web-based systems.
 
-I work across both business and technical teams to translate operational needs into system requirements, application logic, and integrated web-based solutions.
-
----
-
-## Core Skills
-
-**Business & Systems Analysis**  
-Requirements Analysis • Process Mapping • Workflow Optimization • Business Process Improvement • Stakeholder Management
-
-**Technical Delivery**  
-Full-Stack Development • API Integration • System Design • Database Design • Web Application Development
-
-**Operations & Collaboration**  
-Cross-Functional Collaboration • Client & Stakeholder Management • Operational Efficiency • Solution Design
+I focus on:
+- Translating business workflows into application requirements
+- Designing and building full-stack web applications
+- Integrating APIs into user-facing systems
+- Improving operational efficiency through system design
 
 ---
 
-## Connect With Me
+## Core Competencies
 
-![Portfolio](https://img.shields.io/badge/Portfolio-jennifercurtis.me-blue?style=for-the-badge)
+Business Systems Analysis • Requirements Gathering • Process Mapping • Workflow Design
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-jcurtisdeveloper-blue?style=for-the-badge&logo=linkedin&logoColor=white)
+API Integration • Systems Integration • Data Modeling
 
-![GitHub](https://img.shields.io/badge/GitHub-craftycurtis05-black?style=for-the-badge&logo=github)
-
-![Email](https://img.shields.io/badge/Email-craftycurtis05%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)
-
-![Location](https://img.shields.io/badge/Location-Columbus%2C%20OH-lightgrey?style=for-the-badge&logo=googlemaps&logoColor=white)
-
----
-
-## Currently Focused On
-
-- Designing and building integrated systems that connect business workflows, APIs, and data-driven applications  
-- Developing full-stack applications using Java, Spring Boot, Vue.js, and PostgreSQL  
-- Exploring cloud architecture and scalable system design  
-- Improving business processes through software-driven automation and workflow optimization  
-- Expanding expertise in systems analysis, technical consulting, and application design  
+Full-Stack Development • Java • Spring Boot • Vue.js • PostgreSQL
 
 ---
 
 ## Featured Projects
 
-### Local Business Discovery & Decision Support System (Coffee Shop Locator)
+### Coffee Shop Locator Application
 
-A web-based decision support system designed to improve how users discover and evaluate local coffee shops by consolidating fragmented location and business data into a single structured interface.
+A full-stack application that improves local business discovery through centralized data access.
 
-• Reduces friction in local business discovery by unifying multiple data sources into a single decision workflow  
-• Designed responsive user interfaces for desktop and mobile environments  
-• Integrated Yelp Fusion API to deliver real-time business data and structured results  
-• Developed authentication, user profiles, and favorites functionality using Java, Spring Boot, and PostgreSQL  
+• Integrated Yelp Fusion API for real-time business data
+• Built user authentication, profiles, and favorites
+• Designed responsive UI for desktop and mobile
 
 **Tech Stack:** Java, Spring Boot, PostgreSQL, Vue.js, JavaScript, Yelp Fusion API
 
 ---
 
-### Multi-Source Location Intelligence Platform (Dispensary Locator)
+### Dispensary Locator Application
 
-A data-driven location intelligence system that consolidates mapping, business, and informational APIs to support informed user decision-making.
+A multi-source location-based application combining mapping and business APIs.
 
-• Enables structured access to multi-source business and location data for improved decision workflows  
-• Designed responsive user interfaces for desktop and mobile environments  
-• Integrated Google Maps, Yelp Fusion, and News APIs to deliver real-time contextual information  
-• Developed authentication, user profiles, and favorites functionality using Java, Spring Boot, and PostgreSQL  
+• Integrated Google Maps, Yelp Fusion, and News APIs
+• Built user personalization and authentication features
+• Designed structured workflows for multi-device use
 
 **Tech Stack:** Java, Spring Boot, PostgreSQL, Vue.js, JavaScript, Google Maps API, Yelp Fusion API
 
 ---
 
-## Languages & Technologies
+## Currently Focused On
 
-### Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Database & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+- Building full-stack applications with Java, Spring Boot, and Vue.js
+- Improving systems analysis and workflow design skills
+- Working with APIs and data-driven application design
+- Exploring cloud deployment and system architecture fundamentals
 
 ---
 
-## GitHub Stats
+## Technical Stack
 
-![Jennifer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=craftycurtis05&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=craftycurtis05&layout=compact)
+**Languages:** Java, Python, JavaScript  
+**Frameworks:** Spring Boot, Vue.js, Node.js  
+**Databases:** PostgreSQL, SQL  
+**Tools:** Git, GitHub, Docker, IntelliJ IDEA  
+**Concepts:** Systems Analysis, REST APIs, Workflow Automation, Data Modeling, System Design
 
 ---
 
-> I build systems that connect business processes with technology to improve efficiency, visibility, and decision-making.
+## Education & Training
+
+- Tech Elevator – Full-Stack Java Bootcamp (800+ hours)
+- Ohio State University – Architecture (111 credit hours)
+- Marion Technical College – Dean's List; CCNA Certification 
+
+---
+
+> I build systems that connect business workflows with technology to improve efficiency, visibility, and usability.
