@@ -14,8 +14,6 @@ I enjoy solving business challenges through process improvement, systems thinkin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcurtisdeveloper)
 
-[![GitHub](https://img.shields.io/badge/GitHub-craftycurtis05-black?style=for-the-badge&logo=github)](https://github.com/craftycurtis05)
-
 ---
 
 ## Currently Focused On
