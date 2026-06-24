@@ -1,12 +1,14 @@
 # Hi, I'm Jennifer 👋
 
-### Business Systems Analyst | Full-Stack Developer
+### Business Systems Analyst | Full-Stack Developer (Java / Spring Boot / Vue.js)
 
 Business Systems Analyst and Full-Stack Developer specializing in business process improvement, systems analysis, and full-stack web application development.
 
-I work at the intersection of business operations and software development, translating real-world workflows into structured systems and applications that improve efficiency and usability.
+I work at the intersection of business systems analysis and full-stack development, translating real-world workflows into structured systems and applications that improve efficiency and usability.
 
 My background includes business operations, IT consulting, property management, and modern web development using Java and JavaScript frameworks.
+
+15+ years of experience across business operations, systems analysis, IT consulting, and software development.
 
 ---
 
