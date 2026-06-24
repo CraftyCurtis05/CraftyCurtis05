@@ -67,7 +67,7 @@ Full-Stack Development • Java • Spring Boot • Vue.js • PostgreSQL
 
 ### Coffee Shop Locator Application
 
-[Repository](https://github.com/CraftyCurtis05/jolt-coffee-shop-locator)
+🔗 Repository: [View Project](https://github.com/CraftyCurtis05/jolt-coffee-shop-locator)
 
 A full-stack decision support application that improves local business discovery through centralized business data and personalized user features.
 
@@ -83,7 +83,7 @@ A full-stack decision support application that improves local business discovery
 
 ### Dispensary Locator Application
 
-[Repository](https://github.com/CraftyCurtis05/best-buds-dispensary-locator)
+🔗 Repository: [View Project](https://github.com/CraftyCurtis05/best-buds-dispensary-locator)
 
 A multi-source decision support application combining mapping, business, and informational APIs into a unified user experience.
 
