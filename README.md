@@ -42,7 +42,7 @@ Full-Stack Development • Java • Spring Boot • Vue.js • PostgreSQL
 
 ### Coffee Shop Locator Application
 
-A full-stack application that improves local business discovery through centralized data access.
+A full-stack decision support application that improves local business discovery through centralized business data and personalized user features.
 
 • Integrated Yelp Fusion API for real-time business data
 
@@ -56,7 +56,7 @@ A full-stack application that improves local business discovery through centrali
 
 ### Dispensary Locator Application
 
-A multi-source location-based application combining mapping and business APIs.
+A multi-source decision support application combining mapping, business, and informational APIs into a unified user experience.
 
 • Integrated Google Maps, Yelp Fusion, and News APIs
 
